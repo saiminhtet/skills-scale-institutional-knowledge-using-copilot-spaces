@@ -1,0 +1,5 @@
+Title: README for OctoAcme Project Management Docs
+
+This is an automated PR adding a central README for the docs/ folder.
+
+Closes #2
